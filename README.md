@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pendem-sanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pendem-sanjay" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/sanjay_906_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay_906_" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/sanjay1247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjay1247" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanjay1247" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="sanjay1247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanjay_1247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_1247" height="30" width="40" /></a>
 </p>
 
