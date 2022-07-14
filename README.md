@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1dPYOPAPLyCDuC5DYRd7345QTTBD8omWX](https://drive.google.com/drive/u/0/folders/1dPYOPAPLyCDuC5DYRd7345QTTBD8omWX)
 
-- ⚡ Fun fact **Earth is Flat**
+- 😤 Fun fact **Earth is Flat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
