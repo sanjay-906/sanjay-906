@@ -27,6 +27,7 @@
 <!-- <a href="https://instagram.com/sanjay_906_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay_906_" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/sanjay1247" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codechef_logo.png?_rev=20190825132327" alt="sanjay1247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanjay_1247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay_1247" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pssanjaylock" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="Count Pengula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
