@@ -1,10 +1,2 @@
-- 👋 Hi, I'm sanjay-906
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML & DSA
-- 💞️ I’m looking to collaborate on ML related topics
-- 📫 How to reach me pendemsanjay2003@gmail.com
-sanjay-906/sanjay-906 is a ✨ special ✨ repository because its `README.md`
-<!---
- (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![980959e230af1640115d0e16bb314bdc](https://github.com/sanjay-906/sanjay-906/assets/99668976/2938a46a-6993-4d5a-90af-3983b2263e63)
